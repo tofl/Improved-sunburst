@@ -1,5 +1,6 @@
 Improved-sunburst
 =================
 
-Download and share this color scheme;
-/!\ I didn't creat this color scheme : I just improved the colors. /!\
+Download this color scheme and share it !
+
+![alt tag](http://i.imgur.com/74bsaTp.png)
