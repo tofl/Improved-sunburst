@@ -3,7 +3,7 @@ Improved-sunburst
 
 Download this color scheme and share it !
 
-![Improved Sunburst](http://i.imgur.com/74bsaTp.png)
+![Improved Sunburst](http://i.imgur.com/NJqr9LT.png)
 
 Optimized for PHP and JavaScript.
 
